@@ -10,7 +10,7 @@ The class TimeVaryingNetwork was built as an exercise in using Python's object-o
 
 Some basic network properties are plotted below.
 
-![text](https://github.com/markliammurphy/TemporalNetworks/images/edges.jpg "Plot of Edges Over Time")
-![text](https://github.com/markliammurphy/TemporalNetworks/images/eigenvalues.jpg "Plot of Principle Eigenvalue Over Time")
-![text](https://github.com/markliammurphy/TemporalNetworks/images/triangles.jpg "Plot of Triangles Over Time")
+![text](https://github.com/markliammurphy/TemporalNetworks/blob/master/images/edges.jpg "Plot of Edges Over Time")
+![text](https://github.com/markliammurphy/TemporalNetworks/images/blob/master/eigenvalues.jpg "Plot of Principle Eigenvalue Over Time")
+![text](https://github.com/markliammurphy/TemporalNetworks/images/blob/master/triangles.jpg "Plot of Triangles Over Time")
 
