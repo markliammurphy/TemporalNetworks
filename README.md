@@ -8,7 +8,7 @@ reality_mining_scripts - Contains scripts for extracting and manipulating some o
 ## Summary
 The class TimeVaryingNetwork was built as an exercise in using Python's object-oriented capabilities. It was then applied to the Reality Mining project to generate plots and data from various metrics that describe the nature of a network. The inspiration for this draws from network science, as shown in [Holme and Saramaki's Review article](https://arxiv.org/abs/1108.1780).
 
-Some basic network properties are plotted below.
+Some basic network properties are plotted below. The data is plotted at 4 hour intervals. One can clearly observe patterns such as daily and weekly seasonality.
 
 ![text](https://github.com/markliammurphy/TemporalNetworks/blob/master/images/edges.jpg "Plot of Edges Over Time")
 ![text](https://github.com/markliammurphy/TemporalNetworks/blob/master/images/eigenvalues.jpg "Plot of Principle Eigenvalue Over Time")
